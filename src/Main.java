@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        /*System.out.println("Esse é o Screen Match");
+        System.out.println("Esse é o Screen Match");
         System.out.println("Filme: Top Gun: Maverick");
 
         int anoDeLancamento = 2022;
@@ -15,12 +15,14 @@ public class Main {
         System.out.println(sinopse);
 
         int classificacao = (int) (media /2);
-        System.out.println(classificacao);*/
+        System.out.println(classificacao);
 
         int temperatura = 45;
         double tempFahrenheit;
 
         tempFahrenheit = (temperatura * 1.8) + 32;
         System.out.println(tempFahrenheit);
+
+
     }
 }
